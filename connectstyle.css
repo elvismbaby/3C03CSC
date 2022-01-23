@@ -1,0 +1,332 @@
+body{
+  margin: 0;
+}
+
+
+.logo{
+  background: blue;
+  width:1247px;
+  height: 50px;
+  color: white;
+  padding-top: 8px;
+  padding-left: 15px;
+  font-family: sans-serif;
+}
+
+.headtable{
+  cellspacing: 10px;
+}
+
+.nascconnect{
+  font-size: 20px;
+  padding-left: 5px;
+}
+
+.call{
+padding-left: 905px;
+}
+
+.nasclogo{
+  padding-top: 80px;
+  padding-left: 55px;
+  height: 300px;
+  width: 300px;
+}
+
+.head{
+  font-family: Arial,Verdana,serif;
+  font-size: 47px;
+  padding-left: 40px;
+  padding-top: 60px;
+}
+
+.collegename{
+  font-family: helvetica;
+  margin-top: -61px;
+  font-size: 36px;
+}
+
+.image1 {
+  padding-left: 300px;
+  width: 685px;
+  height: 295px;
+
+}
+
+.intro{
+font-family: gordita_medium;
+padding-left: 15px;
+font-size: 20px;
+}
+
+.button {
+  background-color: rgb(17 93 65);
+    font-size: 16px;
+    color: white;
+    font-family: gordita_medium;
+    height: 24px;
+    width: 181px;
+    border-radius: 5px;
+    text-align: center;
+    margin-left: 460px;
+    text-decoration: none;
+
+}
+
+.part2{
+  background-color: #ffff99;
+  height: auto;
+  width: auto;
+}
+
+.picgal{
+  font-size: 30px;
+  padding-left: 25px;
+  padding-top: 20px;
+}
+
+.scorllimage{
+  direction: left;
+  padding-left: 50px;
+  padding-top: 38px;
+}
+
+.scorllimagenew{
+  direction: right;
+  padding-left: 204px;
+  padding-top: 0px;
+}
+
+.btn{
+  height: 50px;
+  width: 250px;
+  background-color: blue;
+  border-radius: 51px;
+  font-size: 20px;
+
+}
+
+.btn2{
+  height: 50px;
+  width: 250px;
+  background-color: darkblue;
+  border-radius: 51px;
+  font-size: 20px;
+}
+
+.btnspace{
+  border-top: 15px;
+}
+
+.btnfirst{
+  padding-left: 25px;
+  padding-top: 39px;
+
+}
+.btnfull{
+  padding-left: 155px;
+
+
+}
+
+.btnsecond{
+  padding-top: 50px;
+}
+
+.enq
+  color: white;
+  float: right;
+  padding-right: 50px;
+  border-bottom: 20px;
+}
+
+
+
+
+
+
+.click{
+  height: 100px;
+  width: 250px;
+}
+
+ .teachers{
+   border: 1px;
+ }
+ .button1{
+   height: 60px;
+   width: 275px;
+   background-color: blue;
+   text-align: center;
+   color: white;
+  margin-left: 99px;
+  border-radius: 51px;
+
+ }
+
+.headt{
+ font-family:arial;
+ padding-left: 100px;
+ padding-top: 30px;
+ font-size: 40px;
+}
+
+.maint{
+  height: 132px;
+  width: 1280px;
+  background-color: yellow;
+}
+
+.tablet2{
+  margin-left: 25px;
+  font-size: 30px;
+}
+
+
+
+ .food{
+   width: 50%;
+   height: 340px;
+   background-color: yellow;
+ }
+
+ .foodmenu{
+   width: 50%;
+   height: 340px;
+   border: 1px;
+   background-color:pink;
+ }
+ .underline{
+ text-decoration: none;
+ color: white;
+ }
+
+
+ .centerlogo{
+   background: red;
+   height: 50px;
+   width: 100px;
+ }
+
+ .imagehead{
+   background-color: yellow;
+   height: 500px;
+   width: 1280px;
+ }
+
+ .headtag{
+   background-color: pink;
+   height: 500px;
+   width: 444px;
+ }
+
+ .imagetag
+ {
+   background-color: black;
+   height: 500px;
+   width: 640px;
+   float: right;
+ }
+
+ .secondrow{
+   background-color: violet;
+   height: auto;
+   width: 1280px;
+   border: 0px;
+ }
+
+ .capeat{
+   height: 220px;
+   width:750px;
+ }
+ .capc{
+   font-size: 33px;
+   font-family: cursive;
+   padding-left: 25px;
+   color: red;
+   padding-top: 30px;
+ }
+
+ .list{
+   font-size: 30px;
+   padding-left: 66px;
+ }
+
+ .rate{
+   font-size: 35px;
+   font-family: sans-serif;
+   padding-left: 15px;
+   font-style: italic;
+   color: Blue;
+ }
+.form{
+
+}
+
+.input{
+
+  height: 25px;
+  width: 300px;
+}
+
+.radio{
+  height: 22px;
+  width: 220px;
+}
+
+.inputtext{
+  font-size: 20px;
+}
+
+.inputcontent{
+  font-size: 18px;
+}
+
+.ratebar{
+  width: 960px;
+  height: 316px;
+  border-radius: 54px;
+  background-color: lightblue;
+  padding-left: 25px;
+  padding-top: 10px;
+  margin-left: 10px;
+}
+
+.ratebar2{
+  width: 960px;
+  height: 545px;
+  border-radius: 54px;
+  background-color: lightpink;
+  padding-left: 25px;
+  padding-top: 10px;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+
+.ratesub{
+  font-size: 30px;
+  font-family: serif,open sans;
+}
+
+.content{
+  font-size: 20px;
+  font-family: sans-serif;
+}
+.submitbtn{
+  height: 30px;
+  width: 110px;
+  background-color: darkblue;
+  color: white;
+}
+
+.reviewbtn{
+  height: 50px;
+  width: 250px;
+  border-radius: 10px;
+  background-color: red;
+  color: white;
+  font-family: serif;
+  font-size: 25px;
+  margin-left: 460px;
+  margin-top: 15px;
+}
