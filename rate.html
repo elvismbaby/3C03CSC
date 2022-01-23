@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+  <head>
+    <title> Rate College</title>
+    <link rel="stylesheet" href="connectstyle.css" type="text/css">
+  </head>
+  <body>
+    <h2 class="rate"> Rate Your College Experience here! </h1>
+ <div class="ratebar">
+   <h3 class="ratesub"> Personal Details </h3>
+       <form class="form">
+         <br> <br>
+       <input class="input" type="text" placeholder="Your Name"/> <br> <br>
+       <input class="input" type="date" placeholder="Date Of Birth here"/> <br>
+
+   <br>
+       <select class="input">
+         <option > BSc Statistics </option>
+         <option > BSc Physics </option>
+         <option > BSc Polymer Chemistry </option>
+         <option > BCom  </option>
+       </select>
+
+     <br> <br>
+     1st year  <input  type="radio" name="Year" value="1st year">
+     2nd year  <input  type="radio" name="Year" value="2nd year">
+     3rd year  <input type="radio" name="Year" value="3rd year">
+
+ </div>
+
+<div class="ratebar2">
+  <h3 class="ratesub"> What all facilities in this college require improvement? </h3>
+   <h4 class="content">Toilet <input class="content" type="checkbox" value="toi"/>   <br>
+  Girls Room <input type="checkbox" value="gir"/><br>
+  Classrooms <input type="checkbox" value="class"/> <br>
+  Garden <input type="checkbox" value="gar"/> <br>
+  Play Ground <input type="checkbox" value="ground"/> <br>
+  Computer Lab <input type="checkbox" value="cs"/> <br> </h4>
+
+<h3 class="ratesub">Experience in college </h3> <input class="input" list="Review" name="college review"/>
+<datalist  id="Review">
+ <option value="Satisfied"/>
+ <option value="Very satisfied"/>
+ <option value="Not satisfied"/>
+ <option value="Very good"/>
+ <option value="Good"/>
+ <option value="Average"/>
+ <option value="Need improvement"/>
+ <option value="Not good"/>
+ <option value="I like"/>
+<option value="I did'nt like"/>
+
+
+</datalist>
+<br> <h3 style="font-size:20px">Additional comments(optional) </h3> <textarea  rows="3" cols="60" value="Additional Comments"></textarea>
+
+
+<br> <button class="submitbtn" type="button"> Submit </button> <br> <br>    </form>
+
+</div>
+
+  </body>
+  <marquee behavior="alternate" direction="right" scrollamount="20">
+  <img class="endimage" src="thanks.png" alt="Thank you image"/> </marquee>
+</html>
